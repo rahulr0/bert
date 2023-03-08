@@ -1,0 +1,501 @@
+Machine Model,Machine Type,Country Name,Delivered Date,Delivered Site,Price,Software Version
+A01,Smart Switch,Japan,9/9/2022,Marshal,5000,v2
+A02,Smart Switch,Japan,9/9/2022,Marshal,5000,v3
+A03,Smart Switch,Japan,9/9/2022,Marshal,5000,v4
+A04,Smart Switch,Japan,9/9/2022,Marshal,5000,v4
+A05,Smart Switch,Japan,9/9/2022,Marshal,5000,v4
+A05,Smart Switch,Japan,9/9/2022,Marshal,5000,v4
+A05,Smart Switch,Japan,9/9/2022,Marshal,5000,v4
+A05,Smart Switch,Korea,9/9/2022,Marshal,5000,v4
+A05,Smart Switch,Korea,9/9/2022,Marshal,5001,v5
+A05,Smart Switch,Korea,9/9/2022,Anchor,5002,v6
+A11,Smart Switch,Korea,2/2/2023,Anchor,5003,v7
+A12,Smart Switch,Korea,2/2/2023,Anchor,5004,v8
+A12,Smart Switch,Korea,2/2/2023,Anchor,5005,v9
+A12,Smart Switch,Korea,2/2/2023,Anchor,5006,v10
+A12,Smart Switch,Korea,2/2/2023,Anchor,5006,v10
+A12,Smart Switch,Korea,2/2/2023,Anchor,5006,v10
+A12,Smart Switch,Korea,2/2/2023,Anchor,5006,v10
+A12,Smart Switch,Korea,2/2/2023,Anchor,5006,v10
+A12,Smart Switch,Korea,2/2/2023,Anchor,5006,v10
+A20,Smart Switch,Korea,2/2/2023,Anchor,5006,v10
+A21,Smart Switch,Korea,2/2/2023,Anchor,5006,v10
+A22,Smart Switch,Korea,2/2/2023,Anchor,5006,v10
+A23,Smart Switch,Korea,2/2/2023,Anchor,5006,v10
+A24,Smart Switch,Korea,2/2/2023,Anchor,5006,v10
+A25,Smart Switch,Korea,2/2/2023,Anchor,5006,v10
+A26,Smart Switch,Korea,2/2/2023,Anchor,5006,v10
+A27,Smart Switch,Korea,2/2/2023,Anchor,5006,v10
+A28,Smart Switch,Korea,2/2/2017,Anchor,5006,v10
+A29,Smart Switch,Korea,2/2/2017,Anchor,5006,v10
+A30,Smart Switch,Korea,2/2/2017,Anchor,5006,v10
+A31,Smart Switch,Korea,2/2/2017,Anchor,5006,v10
+A32,Smart Switch,Korea,2/2/2017,Anchor,5006,v10
+A33,Smart Switch,Korea,3/2/2017,Anchor,5006,v10
+A34,Smart Switch,Korea,3/2/2017,Anchor,5006,v10
+A35,Smart Switch,Korea,3/2/2017,Anchor,5006,v10
+A36,Smart Switch,Korea,3/2/2017,Cisco,5006,v10
+A37,Smart Switch,Korea,3/2/2017,Cisco,5006,v10
+A38,Smart Switch,Korea,3/2/2017,Cisco,5006,v10
+A39,Smart Switch,Korea,3/2/2017,Cisco,5006,v10
+A40,Smart Switch,Korea,3/2/2017,Cisco,5006,v10
+A41,Smart Switch,Korea,3/2/2017,Cisco,5006,v10
+A42,Smart Switch,Korea,3/2/2017,Cisco,5006,v10
+A43,Smart Switch,Korea,3/2/2017,Cisco,5006,v10
+A44,Smart Switch,Korea,3/2/2017,Cisco,5006,v10
+A45,Smart Switch,Korea,3/2/2017,Cisco,5006,v10
+A46,Smart Switch,Korea,3/2/2017,Cisco,5006,v10
+A47,Smart Switch,Korea,3/2/2017,Cisco,5006,v10
+A48,Smart Switch,Korea,3/2/2017,Cisco,5006,v10
+A49,Smart Switch,Korea,3/2/2017,Cisco,5006,v10
+A50,Smart Switch,Korea,3/2/2017,Cisco,5006,v10
+A50,Vision Quadra,USA,3/2/2017,Anchor,5000,v5
+A50,Vision Quadra,USA,3/2/2017,Anchor,5000,v5
+A50,Vision Quadra,USA,3/2/2017,Anchor,5000,v5
+A50,Vision Quadra,USA,3/2/2017,Anchor,5000,v5
+A50,Vision Quadra,USA,3/2/2017,Anchor,5000,v5
+A50,Vision Quadra,USA,3/2/2017,Anchor,5000,v5
+A57,Vision Quadra,USA,3/2/2017,Anchor,5000,v5
+A58,Vision Quadra,USA,3/2/2017,Anchor,5000,v5
+A59,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A60,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A61,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A62,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A63,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A64,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A65,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A66,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A67,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A68,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A69,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Vision Quadra,USA,2/2/2017,Anchor,5000,v5
+A05,Backend Switch,USA,2/2/2017,Anchor,5001,v6
+A05,Backend Switch,USA,2/2/2017,Anchor,5002,v7
+A91,Backend Switch,USA,2/2/2017,Anchor,5003,v8
+A92,Backend Switch,USA,2/2/2017,Anchor,5004,v9
+A93,Backend Switch,USA,2/2/2017,Anchor,5005,v10
+A94,Backend Switch,USA,2/2/2017,Anchor,5006,v11
+A95,Backend Switch,USA,2/2/2017,Anchor,5007,v12
+A96,Backend Switch,USA,2/2/2017,Anchor,5008,v13
+A97,Router,USA,2/2/2017,Anchor,5008,v13
+A98,Router,USA,2/2/2017,Anchor,5008,v13
+A99,Router,USA,2/2/2017,Anchor,5008,v13
+B01,Router,India,2/2/2017,Anchor,700,v11
+B02,Router,India,2/2/2017,Anchor,700,v11
+B03,Router,India,2/2/2017,Anchor,700,v11
+B04,Router,India,2/2/2017,Anchor,700,v11
+B05,Router,India,2/2/2017,Anchor,700,v11
+B06,Router,India,2/2/2017,Anchor,700,v11
+B07,Router,India,2/2/2017,Anchor,700,v11
+B08,Router,India,2/2/2017,Anchor,700,v11
+B09,Router,India,2/2/2017,Anchor,700,v11
+B10,Router,India,2/2/2017,Anchor,700,v11
+B10,Router,India,2/2/2017,Anchor,700,v11
+B10,Router,India,2/2/2017,Anchor,700,v11
+B10,Router,India,2/2/2017,Anchor,700,v11
+B10,Router,India,2/2/2017,Anchor,700,v11
+B10,Router,India,2/2/2017,Anchor,700,v11
+B10,Router,India,2/2/2017,Anchor,700,v11
+B10,Router,India,2/2/2017,Anchor,700,v11
+B10,Router,India,2/2/2017,Anchor,700,v11
+B10,Router,India,2/2/2017,Anchor,700,v11
+B10,Router,India,2/2/2017,Anchor,700,v11
+B10,Router,India,2/2/2017,Anchor,700,v11
+B22,Router,India,2/2/2017,Anchor,700,v11
+B23,Router,India,2/2/2017,Anchor,700,v11
+B24,Router,India,2/2/2017,Anchor,1500,v11
+B25,Router,India,2/2/2017,Anchor,700,v11
+B26,Router,India,2/2/2017,Anchor,700,v11
+B27,Router,India,2/2/2017,Anchor,700,v11
+B28,Router,India,2/2/2017,Anchor,700,v11
+B29,Router,India,2/2/2017,Anchor,700,v11
+B30,Router,India,2/2/2017,Anchor,700,v11
+B31,Router,India,2/2/2017,Anchor,700,v11
+B32,Router,India,2/2/2017,Anchor,700,v11
+B33,Router,India,2/2/2017,Anchor,700,v11
+B34,Router,India,2/2/2017,Anchor,700,v11
+B35,Router,India,2/2/2017,Anchor,700,v11
+B36,Router,India,2/2/2017,Anchor,700,v11
+B37,Router,India,2/2/2017,Anchor,700,v11
+B38,Router,India,2/2/2017,Anchor,700,v11
+B39,Router,India,2/2/2017,Anchor,700,v11
+B40,Router,India,2/2/2017,Anchor,700,v11
+B41,Router,India,2/2/2017,Anchor,700,v11
+B42,Router,India,2/2/2017,Anchor,700,v11
+B43,Router,India,2/2/2017,Anchor,700,v11
+B44,Router,India,2/2/2017,Anchor,700,v11
+B45,Router,India,2/2/2017,Anchor,700,v11
+B46,Router,India,2/2/2017,Anchor,700,v11
+B47,Router,India,2/2/2017,Anchor,700,v11
+B48,Router,India,2/2/2017,Anchor,700,v11
+B49,Router,India,2/2/2017,Anchor,700,v11
+B50,Router,India,2/2/2017,Anchor,700,v11
+B51,Router,India,2/2/2017,Anchor,700,v11
+B52,Router,India,2/2/2017,Anchor,700,v11
+B53,Router,India,2/2/2017,Anchor,700,v11
+B54,Router,India,2/2/2017,Anchor,700,v11
+B55,Router,India,2/2/2017,Anchor,700,v11
+B56,Router,India,2/2/2017,Anchor,700,v11
+B57,Router,India,2/2/2017,Anchor,700,v11
+B58,Router,India,2/2/2017,Anchor,700,v11
+B59,Router,India,2/2/2017,Anchor,700,v11
+B60,Router,India,2/2/2017,Anchor,700,v11
+B61,Router,India,2/2/2017,Anchor,700,v11
+B62,Router,India,2/2/2017,Anchor,700,v11
+B63,Router,India,2/2/2017,Anchor,700,v11
+B64,Router,India,2/2/2017,Anchor,700,v11
+B65,Router,India,2/2/2017,Anchor,700,v11
+B66,Router,India,2/2/2017,Anchor,700,v11
+B67,Router,India,2/2/2017,Anchor,700,v11
+B68,Router,India,2/2/2017,Anchor,700,v11
+B69,Router,India,2/2/2017,Anchor,700,v11
+B70,Router,India,2/2/2017,Anchor,700,v11
+B71,Router,India,2/2/2017,Anchor,700,v11
+B72,Router,India,2/2/2017,Anchor,700,v11
+B73,Router,India,2/2/2017,Anchor,700,v11
+B74,Router,India,2/2/2017,Anchor,700,v11
+B75,Router,India,2/2/2017,Anchor,1700,v11
+B76,Router,India,2/2/2017,Anchor,700,v11
+B77,Router,India,2/2/2017,Anchor,700,v11
+B78,Router,India,2/2/2017,Anchor,700,v11
+B79,Router,India,2/2/2017,Anchor,700,v11
+B80,Router,India,2/2/2017,Anchor,700,v11
+B81,Router,India,2/2/2017,Anchor,700,v11
+B82,Router,India,2/2/2017,Anchor,700,v11
+B83,Router,India,2/2/2017,Anchor,700,v11
+B84,Router,India,2/2/2017,Anchor,700,v11
+B85,Router,India,2/2/2017,Anchor,700,v11
+B86,Router,India,2/2/2017,Anchor,700,v11
+B87,Router,India,2/2/2017,Anchor,700,v11
+B88,Router,India,2/2/2017,Anchor,700,v11
+B89,Router,India,2/2/2017,Anchor,700,v11
+B90,Router,India,1/2/2022,Anchor,700,v11
+B90,Router,India,1/2/2022,Anchor,700,v11
+B90,Router,India,1/2/2022,Anchor,700,v11
+B93,Router,India,1/2/2022,Anchor,700,v11
+B94,Router,India,1/2/2022,Anchor,700,v11
+B95,Router,India,1/2/2022,Anchor,700,v11
+B96,Router,India,1/2/2022,Anchor,700,v11
+B97,Router,India,1/2/2022,Anchor,700,v11
+B98,Router,India,1/2/2022,Anchor,700,v11
+B99,Router,India,2/2/2017,Anchor,700,v11
+C01,Router,India,2/2/2017,Anchor,700,v11
+C02,Router,India,2/2/2017,Anchor,700,v11
+C03,Router,India,2/2/2017,Anchor,700,v11
+C04,Router,India,2/2/2017,Anchor,700,v11
+C05,Router,India,2/2/2017,Anchor,700,v11
+C06,Router,India,2/2/2017,Anchor,700,v11
+C07,Router,India,2/2/2017,Anchor,700,v11
+C08,Router,India,2/2/2017,Anchor,700,v11
+C09,Router,India,2/2/2017,Anchor,700,v11
+C10,Router,India,2/2/2017,Anchor,700,v11
+C11,Router,India,2/2/2017,Anchor,700,v11
+C12,Router,India,2/2/2017,Anchor,700,v11
+C13,Router,India,2/2/2017,Anchor,700,v11
+C14,Router,India,2/2/2017,Anchor,700,v11
+C15,Router,India,2/2/2017,Anchor,700,v11
+C16,Router,India,2/2/2017,Anchor,700,v11
+C17,Router,India,2/2/2017,Anchor,700,v11
+C18,Router,India,2/2/2017,Anchor,700,v11
+C19,Router,India,2/2/2017,Anchor,700,v11
+C20,Router,India,2/2/2017,Anchor,700,v11
+C21,Router,India,2/2/2017,Anchor,700,v11
+C22,Router,India,2/2/2017,Anchor,700,v11
+C23,Router,India,10.2.2013,Anchor,700,v11
+C24,Router,India,10.2.2013,Anchor,700,v11
+C25,Router,India,10.2.2013,Anchor,700,v11
+C26,Router,India,10.2.2013,Anchor,700,v11
+C27,Router,India,10.2.2013,Anchor,700,v11
+C28,Router,India,10.2.2013,Anchor,700,v11
+C29,Router,India,10.2.2013,Anchor,700,v11
+C30,Router,India,10.2.2013,Anchor,700,v11
+C31,Router,India,10.2.2013,Anchor,700,v11
+C32,Router,India,10.2.2013,Anchor,700,v11
+C33,Router,India,10.2.2013,Anchor,700,v11
+C34,Router,India,10.2.2013,Anchor,700,v11
+C35,Router,India,10.2.2013,Anchor,700,v11
+C36,Router,India,10.2.2013,Anchor,700,v11
+C37,Router,India,10.2.2013,Anchor,700,v11
+C38,Router,India,10.2.2013,Anchor,700,v11
+C39,Router,India,10.2.2013,Anchor,700,v11
+C40,Router,India,10.2.2013,Anchor,700,v11
+C41,Router,India,10.2.2013,Anchor,700,v11
+C42,Router,India,10.2.2013,Anchor,700,v11
+C43,Router,India,10.2.2013,Anchor,700,v11
+C44,Router,India,10.2.2013,Anchor,700,v11
+C45,Router,India,10.2.2013,Anchor,700,v11
+C46,Router,India,10.2.2013,Anchor,700,v11
+C47,Router,India,10.2.2013,Anchor,700,v11
+C48,Router,India,10.2.2013,Anchor,700,v11
+C49,Router,India,10.2.2013,Anchor,700,v11
+C50,Router,India,10.2.2013,Anchor,700,v11
+C51,Router,India,10.2.2013,Anchor,700,v11
+C52,Router,India,10.2.2013,Anchor,700,v11
+C53,Router,India,10.2.2013,Anchor,700,v11
+C54,Router,India,10.2.2013,Anchor,700,v11
+C55,Router,India,10.2.2013,Anchor,700,v11
+C56,Router,India,10.2.2013,Anchor,700,v11
+C57,Router,India,10.2.2013,Anchor,700,v11
+C58,Router,India,10.2.2013,Anchor,700,v11
+C59,Router,India,10.2.2013,Anchor,700,v11
+C60,Router,India,10.2.2013,Anchor,700,v11
+C61,Router,India,10.2.2013,Anchor,700,v11
+C62,Router,India,10.2.2013,Anchor,700,v11
+C63,Router,India,10.2.2013,Anchor,700,v11
+C64,Router,India,10.2.2013,Anchor,700,v11
+C65,Router,India,10.2.2013,Anchor,700,v11
+C66,Router,India,10.2.2013,Anchor,700,v11
+C67,Router,India,10.2.2013,Anchor,700,v11
+C68,Router,India,10.2.2013,Anchor,700,v11
+C69,Router,India,10.2.2013,Anchor,700,v11
+C70,Router,India,10.2.2013,Anchor,700,v11
+C71,Router,India,10.2.2013,Anchor,700,v11
+C72,Router,India,10.2.2013,Anchor,700,v11
+C73,Router,India,10.2.2013,Anchor,700,v11
+C74,Router,India,10.2.2013,Anchor,700,v11
+C75,Router,India,10.2.2013,Anchor,700,v11
+C76,Router,India,10.2.2013,Anchor,700,v11
+C77,Router,India,10.2.2013,Anchor,700,v11
+C78,Router,India,10.2.2013,Anchor,700,v11
+C79,Router,India,10.2.2013,Anchor,700,v11
+C80,Router,India,10.2.2013,Anchor,700,v11
+C81,Router,India,10.2.2013,Anchor,700,v11
+C82,Router,India,10.2.2013,Anchor,700,v11
+C83,Router,India,10.2.2013,Anchor,700,v11
+C84,Router,India,10.2.2013,Anchor,700,v11
+C85,Router,India,10.2.2013,Anchor,700,v11
+C86,Router,India,10.2.2013,Anchor,700,v11
+C87,Router,India,10.2.2013,Anchor,700,v11
+C88,Router,India,10.2.2013,Anchor,700,v11
+C89,Router,India,10.2.2013,Anchor,700,v11
+C90,Router,India,10.2.2013,Anchor,700,v11
+C91,Router,India,10.2.2013,Anchor,700,v11
+C92,Router,India,10.2.2013,Anchor,700,v11
+C93,Router,India,10.2.2013,Anchor,700,v11
+C94,Router,India,10.2.2013,Anchor,700,v11
+C95,Router,India,10.2.2013,Anchor,700,v11
+C96,Router,India,10.2.2013,Anchor,700,v11
+C97,Router,India,10.2.2013,Anchor,700,v11
+C98,Router,India,10.2.2013,Anchor,700,v11
+C99,Router,India,10.2.2013,Anchor,700,v11
+D01,Router,India,10.2.2013,Anchor,700,v11
+D02,Router,India,10.2.2013,Anchor,700,v11
+D03,Router,India,10.2.2013,Anchor,700,v11
+D04,Router,India,10.2.2013,Anchor,700,v11
+D05,Router,India,10.2.2013,Anchor,700,v11
+D06,Router,India,10.2.2013,Anchor,700,v11
+D07,Router,India,10.2.2013,Anchor,700,v11
+D08,Router,India,10.2.2013,Anchor,700,v11
+D09,Router,India,10.2.2013,Anchor,700,v11
+D10,Router,India,10.2.2013,Anchor,700,v11
+D11,Router,India,10.2.2013,Anchor,700,v11
+D12,Router,India,10.2.2013,Anchor,700,v11
+D13,Router,India,10.2.2013,Anchor,700,v11
+D14,Router,India,10.2.2013,Anchor,700,v11
+D15,Router,India,10.2.2013,Anchor,700,v11
+D16,Router,India,10.2.2013,Anchor,700,v11
+D17,Router,India,10.2.2013,Anchor,700,v11
+D18,Router,India,10.2.2013,Anchor,700,v11
+D19,Router,India,10.2.2013,Anchor,700,v11
+D20,Router,India,10.2.2013,Anchor,700,v11
+D21,Router,India,10.2.2013,Anchor,700,v11
+D22,Router,India,10.2.2013,Anchor,700,v11
+D23,Router,India,10.2.2013,Anchor,700,v11
+D24,Router,India,10.2.2013,Anchor,700,v11
+D25,Router,India,10.2.2013,Anchor,700,v11
+D26,Router,India,10.2.2013,Anchor,700,v11
+D27,Router,India,10.2.2013,Anchor,700,v11
+D28,Router,India,10.2.2013,Anchor,700,v11
+D29,Router,India,10.2.2013,Anchor,700,v11
+D30,Router,India,10.2.2013,Anchor,700,v11
+D31,Router,India,10.2.2013,Anchor,700,v11
+D32,Router,India,10.2.2013,Anchor,700,v11
+D33,Router,India,10.2.2013,Anchor,700,v11
+D34,Router,India,10.2.2013,Anchor,700,v11
+D35,Router,India,10.2.2013,Anchor,700,v11
+D36,Router,India,10.2.2013,Anchor,700,v11
+D37,Router,India,10.2.2013,Anchor,700,v11
+D38,Router,India,10.2.2013,Anchor,700,v11
+D39,Router,India,10.2.2013,Anchor,700,v11
+D40,Router,India,10.2.2013,Anchor,700,v11
+D41,Router,India,10.2.2013,Anchor,700,v11
+D42,Router,India,10.2.2013,Anchor,700,v11
+D43,Router,India,10.2.2013,Anchor,700,v11
+D44,Router,India,10.2.2013,Anchor,700,v11
+D45,Router,India,10.2.2013,Anchor,700,v11
+D46,Router,India,10.2.2013,Anchor,700,v11
+D47,Router,India,10.2.2013,Anchor,700,v11
+D48,Router,India,10.2.2013,Anchor,700,v11
+D49,Router,India,10.2.2022,Anchor,700,v11
+D49,Router,India,10.2.2022,Anchor,700,v11
+D49,Router,India,10.2.2022,Anchor,700,v11
+D49,Router,India,10.2.2022,Anchor,700,v11
+D49,Router,India,10.2.2022,Anchor,700,v11
+D49,Router,India,10.2.2022,Anchor,700,v11
+D49,Router,India,10.2.2022,Anchor,700,v11
+D49,Router,India,10.1.2022,Anchor,700,v11
+D49,Router,India,10.1.2022,Anchor,700,v11
+D49,Router,India,10.1.2022,Anchor,700,v11
+D49,Router,India,10.1.2022,Anchor,700,v11
+D49,Router,India,10.1.2022,Anchor,700,v11
+D49,Router,India,10.1.2022,Anchor,700,v11
+D49,Router,India,10.1.2022,Anchor,700,v11
+D49,Router,India,10.1.2022,Anchor,700,v11
+D49,Router,India,10.1.2022,Anchor,700,v11
+D49,Router,India,10.1.2022,Anchor,700,v11
+D49,Router,India,10.2.2022,Anchor,700,v11
+D67,Router,India,10.2.2022,Anchor,700,v11
+D68,Router,India,10.2.2022,Anchor,700,v11
+D69,Router,India,10.2.2022,Anchor,700,v11
+D70,Router,India,10.2.2022,Anchor,700,v11
+D71,Router,India,10.2.2022,Anchor,700,v11
+D72,Router,India,10.2.2022,Anchor,700,v11
+D73,Router,India,10.2.2022,Anchor,700,v11
+D74,Router,India,10.2.2022,Anchor,700,v11
+D75,Router,India,10.2.2022,Anchor,700,v11
+D76,Router,India,10.2.2022,Anchor,700,v11
+D77,Router,India,10.2.2022,Anchor,700,v11
+D78,Router,India,10.2.2022,Anchor,700,v11
+D79,Router,India,10.2.2022,Anchor,700,v11
+D80,Router,India,10.2.2022,Anchor,700,v11
+D81,Router,India,10.2.2022,Anchor,700,v11
+D82,Router,India,10.2.2022,Anchor,700,v11
+D83,Router,India,10.2.2022,Anchor,700,v11
+D84,Router,India,10.2.2022,Anchor,700,v11
+D85,Router,India,10.2.2022,Anchor,700,v11
+D86,Router,India,10.2.2022,Anchor,700,v11
+D87,Router,India,10.2.2022,Anchor,700,v11
+D88,Router,India,10.2.2022,Anchor,700,v11
+D89,Router,India,10.2.2022,Anchor,700,v11
+D90,Router,India,10.2.2022,Anchor,700,v11
+D91,Router,India,10.2.2022,Anchor,700,v11
+D92,Router,India,10.2.2022,Anchor,700,v11
+D93,Router,India,10.2.2022,Anchor,700,v11
+D94,Router,India,10.2.2022,Anchor,700,v11
+D95,Router,India,10.2.2022,Anchor,700,v11
+D96,Router,India,10.2.2022,Anchor,700,v11
+D97,Router,India,10.2.2022,Anchor,700,v11
+D98,Router,India,10.2.2022,Anchor,700,v11
+D99,Router,India,10.2.2022,Anchor,700,v11
+E01,Router,India,10.2.2022,Anchor,700,v11
+E02,Router,India,10.2.2022,Anchor,700,v11
+E03,Router,India,10.2.2022,Anchor,700,v11
+E04,Router,India,10.2.2022,Anchor,700,v11
+E05,Router,India,10.2.2022,Anchor,700,v11
+E06,Router,India,10.2.2022,Anchor,700,v11
+E07,Router,India,10.2.2022,Anchor,700,v11
+E08,Router,India,10.2.2022,Anchor,700,v11
+E09,Router,India,10.2.2022,Anchor,700,v11
+E10,Router,India,10.2.2022,Anchor,700,v11
+E11,Router,India,10.2.2022,Anchor,700,v11
+E12,Router,India,10.2.2022,Anchor,700,v11
+E13,Router,Canada,10.2.2022,Anchor,700,v11
+E14,Router,Canada,10.2.2022,Anchor,700,v11
+E15,Router,Canada,10.2.2022,Anchor,700,v11
+E16,Router,Canada,10.2.2022,Anchor,700,v11
+E17,Router,Canada,10.2.2022,Anchor,700,v11
+E18,Router,Canada,10.2.2022,Anchor,700,v11
+E19,Router,Canada,10.2.2022,Anchor,700,v11
+E20,Router,Canada,10.2.2022,Anchor,700,v11
+E21,Router,Canada,10.2.2022,Anchor,700,v11
+E22,Router,Canada,10.2.2022,Anchor,700,v11
+E23,Router,Canada,10.2.2022,Anchor,700,v11
+E24,Router,Canada,10.2.2022,Anchor,700,v11
+E25,Router,Canada,10.2.2022,Anchor,700,v11
+E26,Router,Canada,10.2.2022,Anchor,700,v11
+E27,Router,Canada,10.2.2021,Anchor,700,v11
+E28,Router,Canada,10.2.2021,Anchor,700,v11
+E29,Router,Canada,10.2.2021,Anchor,700,v11
+E30,Router,Canada,10.2.2021,Anchor,700,v11
+E31,Router,Canada,10.2.2021,Anchor,700,v11
+E32,Router,Canada,10.2.2021,Anchor,700,v11
+E33,Router,Canada,10.2.2021,Anchor,700,v11
+E34,Router,Canada,10.2.2021,Anchor,700,v11
+E35,Router,Canada,10.2.2021,Anchor,700,v11
+E36,Router,Canada,10.2.2021,Anchor,700,v11
+E37,Router,Canada,10.2.2021,Anchor,700,v11
+E38,Router,Canada,10.2.2021,Anchor,700,v11
+E39,Router,Canada,10.2.2021,Anchor,700,v11
+E40,Router,Canada,10.2.2021,Anchor,700,v11
+E41,Router,Canada,10.2.2021,Anchor,700,v11
+E42,Router,Canada,10.2.2021,Anchor,700,v11
+E43,Router,Canada,10.2.2021,Anchor,700,v11
+E44,Router,Canada,10.2.2021,Anchor,700,v11
+E45,Router,Canada,10.2.2021,Anchor,700,v11
+E46,Router,Canada,10.2.2021,Anchor,700,v11
+E47,Router,Canada,10.2.2021,Anchor,700,v11
+E48,Router,Canada,10.2.2021,Anchor,700,v11
+E49,Router,Canada,10.2.2021,Anchor,700,v11
+E50,Router,Russia,10.2.2021,Anchor,700,v11
+E51,Router,Russia,10.2.2021,Anchor,700,v11
+E52,Router,Russia,10.2.2021,Anchor,700,v11
+E53,Router,Russia,10.2.2021,Anchor,700,v11
+E54,Router,Russia,10.2.2021,Anchor,700,v11
+E55,Router,Russia,10.2.2021,Anchor,700,v11
+E56,Router,Russia,10.2.2021,Anchor,700,v11
+E57,Router,Russia,10.2.2021,Anchor,700,v11
+E58,Router,Russia,10.2.2021,Anchor,700,v11
+E59,Router,Russia,10.2.2021,Anchor,700,v11
+E60,Router,Russia,10.2.2021,Anchor,700,v11
+E61,Router,Russia,10.2.2021,Anchor,700,v11
+E62,Router,Russia,10.2.2021,Anchor,700,v11
+E63,Router,Russia,10.2.2021,Anchor,700,v11
+E64,Router,Russia,10.2.2021,Anchor,700,v11
+E65,Router,Russia,10.2.2021,Anchor,700,v11
+E66,Router,Russia,10.2.2021,Anchor,700,v11
+E67,Router,Russia,10.2.2021,Anchor,700,v11
+E68,Router,Russia,10.2.2021,Anchor,700,v11
+E69,Router,Russia,10.2.2021,Anchor,700,v11
+E70,Router,Russia,10.2.2021,Anchor,700,v11
+E71,Router,Russia,10.2.2021,Anchor,700,v11
+E72,Router,Russia,10.2.2021,Anchor,700,v11
+E73,Router,Russia,10.2.2021,Anchor,700,v11
+E74,Router,Russia,10.2.2021,Anchor,700,v11
+E75,Router,Russia,10.2.2021,Anchor,700,v11
+E76,Router,Russia,10.2.2021,Anchor,700,v11
+E77,Router,Russia,10.2.2021,Anchor,700,v11
+E78,Router,Russia,10.2.2021,Anchor,700,v11
+E79,Router,Russia,10.2.2021,Anchor,700,v11
+E80,Router,Russia,10.2.2021,Anchor,700,v11
+E81,Router,Russia,10.2.2021,Anchor,700,v11
+E82,Router,Russia,10.2.2021,Anchor,700,v11
+E83,Router,Russia,10.2.2021,Anchor,700,v11
+E84,Router,Russia,10.2.2021,Anchor,700,v11
+E85,Router,Russia,10.2.2021,Anchor,700,v11
+E86,Router,Russia,10.2.2021,Anchor,700,v11
+E87,Router,Russia,10.2.2021,Anchor,700,v11
+E88,Router,Russia,10.2.2021,Anchor,700,v11
+E89,Router,Russia,10.2.2021,Anchor,700,v11
+E90,Router,Russia,10.2.2021,Anchor,700,v11
+E91,Router,Russia,10.2.2021,Anchor,700,v11
+E92,Router,Russia,10.2.2021,Anchor,700,v11
+E93,Router,Russia,10.2.2021,Anchor,700,v11
+E94,Router,Russia,10.2.2021,Anchor,700,v11
+E95,Router,Russia,10.2.2021,Anchor,700,v11
+E96,Router,Russia,10.2.2021,Anchor,700,v11
+E97,Router,Russia,10.2.2021,Anchor,700,v11
+E98,Router,Russia,10.2.2021,Anchor,700,v11
+E99,Router,Russia,10.2.2021,Anchor,700,v11
+F01,Router,Russia,10.2.2021,Anchor,700,v11
+F02,Router,Russia,10.2.2021,Anchor,700,v11
+F03,Router,Russia,10.2.2021,Anchor,700,v11
+F04,Router,Russia,10.2.2021,Anchor,700,v11
+F05,Router,Russia,10.2.2021,Anchor,700,v11
